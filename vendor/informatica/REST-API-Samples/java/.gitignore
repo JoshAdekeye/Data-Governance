@@ -1,0 +1,7 @@
+/bin/
+out/*.txt
+out/*.csv
+out/*.log
+/edc_java_forked.code-workspace
+target/*
+.vscode/*
